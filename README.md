@@ -50,8 +50,11 @@ El análisis se centró en las siguientes métricas clave:
 Con base en los análisis realizados, no se recomienda cerrar ninguna tienda , Las diferencias entre todas las tiendas son moderadas y no muestran una tienda "fallida", sino una con margen de mejora. Pero si la decisión del Sr. Juan es definitiva y busca cerrar la tienda menos eficiente , la tienda que debe **cerrar es la numero 4**, ya que presenta:
 
 -**La tienda 4 tiene el ingreso total más bajo pese a tener productos similares y presencia de categorías comunes como electrónicos, hogar, libros, etc.**
+
 -**Aunque su costo de envío es el más económico, eso no ha sido suficiente para compensar su bajo rendimiento en ventas.**
+
 -**La calificación de clientes de (4.00) es promedio, sin destacar en experiencia o satisfacción.**
+
 -**En productos menos vendidos, la tienda 4 muestra artículos con baja rotación y demanda limitada, como guitarras o armarios.**
 
 
