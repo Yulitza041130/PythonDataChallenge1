@@ -38,10 +38,10 @@ El análisis se centró en las siguientes métricas clave:
 
 | Tienda   | Ingresos Totales | Calificación Promedio | Producto Más Vendido      | Producto Menos Vendido | Costo de Envío Promedio  |
 |--------  |------------------|-----------------------|---------------------------|------------------------|--------------------------|
-| Tienda 1 | $ 1.150.880.400  | 4.5                   | Secadora de ropa          | Celular ABXY           | $26018.61                |
-| Tienda 2 | $ 1.116.343.500  | 3.9                   | Iniciando en programación | Mesa de comerdor       | $25216.24                |               
-| Tienda 3 | $ 1.098.019.600  | 4.2                   | Bicicleta                 | TV LED UHD 4K          | $24805.68                |               
-| Tienda 4 | $ 1.038.375.700  | 4.0                   | Dashboard con Power BI    | Armario                | $23459.46                |
+| Tienda 1 | $ 1.150.880.400  | 3.98                  | Secadora de ropa          | Celular ABXY           | $26018.61                |
+| Tienda 2 | $ 1.116.343.500  | 4.04                  | Iniciando en programación | Mesa de comerdor       | $25216.24                |               
+| Tienda 3 | $ 1.098.019.600  | 4.05                  | Bicicleta                 | TV LED UHD 4K          | $24805.68                |               
+| Tienda 4 | $ 1.038.375.700  | 4.00                  | Dashboard con Power BI    | Armario                | $23459.46                |
 
 ---
 
