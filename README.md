@@ -30,7 +30,6 @@ El análisis se centró en las siguientes métricas clave:
 - **Python** (Google Colab)
 - **Pandas** para manipulación de datos
 - **Matplotlib / Seaborn** para visualizaciones
-- **NumPy**
 
 ---
 
