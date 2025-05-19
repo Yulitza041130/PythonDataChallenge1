@@ -29,7 +29,7 @@ El análisis se centró en las siguientes métricas clave:
 
 - **Python** (Google Colab)
 - **Pandas** para manipulación de datos
-- **Matplotlib / Seaborn** para visualizaciones
+- **Matplotlib** para visualizaciones
 
 ---
 
@@ -74,6 +74,6 @@ Este desafío permitió aplicar conocimientos clave de ciencia de datos:
 
 ## Autor
 
-- **[Yulitza Alejandra Gamez Bautista]**
+- **Yulitza Alejandra Gamez Bautista**
 - Desarrollado como parte del curso **Python para Data Science - Alura Latam**
 
